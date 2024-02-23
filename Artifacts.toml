@@ -1,0 +1,244 @@
+[[Qt6Positioning]]
+arch = "aarch64"
+git-tree-sha1 = "4347e0d2c43c1cb0e5a77fcc2f6b052e32e39a85"
+os = "macos"
+
+    [[Qt6Positioning.download]]
+    sha256 = "1d6349b7e354810c0dc7569d78a6a09dcef793ba36e3b7efb06c178b4b7c5178"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Positioning_jll.jl/releases/download/Qt6Positioning-v6.5.2+0/Qt6Positioning.v6.5.2.aarch64-apple-darwin.tar.gz"
+[[Qt6Positioning]]
+arch = "x86_64"
+git-tree-sha1 = "dc50d2630db449e57414d7376c7743b42e4eb052"
+os = "macos"
+
+    [[Qt6Positioning.download]]
+    sha256 = "60106ceb16691540163eba95c2712fb3a27c0eb6a8747340020ce80698a62b16"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Positioning_jll.jl/releases/download/Qt6Positioning-v6.5.2+0/Qt6Positioning.v6.5.2.x86_64-apple-darwin.tar.gz"
+[[Qt6Positioning]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f844e04a3a29dfbbe2ee903a46aea60f7b99181e"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Positioning.download]]
+    sha256 = "67ed850b38141cdaedbfaabf16632bd278fe93fe3059dac2933de526b0fdf04d"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Positioning_jll.jl/releases/download/Qt6Positioning-v6.5.2+0/Qt6Positioning.v6.5.2.aarch64-linux-gnu-cxx03.tar.gz"
+[[Qt6Positioning]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e23c81d149b4a70c9cc49f95db48a5eb96b90771"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Positioning.download]]
+    sha256 = "2a20d44b12a4de2bb49b2f01f03ca2c5bbb8d1e7cc9b8b3eab0ca77e68e4e36c"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Positioning_jll.jl/releases/download/Qt6Positioning-v6.5.2+0/Qt6Positioning.v6.5.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[Qt6Positioning]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7870be781d3adc7c62a92caddaf3c0082950795d"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Positioning.download]]
+    sha256 = "632538cb95f4140ee6a2d4d4bfcb711bae25decb9ed16915324451afc65bed71"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Positioning_jll.jl/releases/download/Qt6Positioning-v6.5.2+0/Qt6Positioning.v6.5.2.aarch64-linux-musl-cxx03.tar.gz"
+[[Qt6Positioning]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "16fb58365bbc9875e2958f055a76c68de481860c"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Positioning.download]]
+    sha256 = "75196d58512fe028135cab4326266e8c2bb2f8032fa84f805b492acdb78d915d"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Positioning_jll.jl/releases/download/Qt6Positioning-v6.5.2+0/Qt6Positioning.v6.5.2.aarch64-linux-musl-cxx11.tar.gz"
+[[Qt6Positioning]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "11436a9b1c51ad222ef94a1766e78eb630bed777"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Positioning.download]]
+    sha256 = "161d3cd186f2439eb32ed0cabcd567a4c0abbdd88fc18a99a65d5140b96db8f7"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Positioning_jll.jl/releases/download/Qt6Positioning-v6.5.2+0/Qt6Positioning.v6.5.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Qt6Positioning]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a3a4a2611e25c656443e86d4786f7f3c2db68f6d"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Positioning.download]]
+    sha256 = "ec3e9c736345d9b2fe5e9b77395c24ab420400359ffec1ea973b4626128daa95"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Positioning_jll.jl/releases/download/Qt6Positioning-v6.5.2+0/Qt6Positioning.v6.5.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Qt6Positioning]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8db44729696186226cc79beff556ccd0328deb37"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Positioning.download]]
+    sha256 = "4cb48d0a9006157845f6cebd038499612b1ad1861f307b3c367dbff92facf666"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Positioning_jll.jl/releases/download/Qt6Positioning-v6.5.2+0/Qt6Positioning.v6.5.2.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Qt6Positioning]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "86fb8b79f1132f588bf30196c3a02eb41d00d05c"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Positioning.download]]
+    sha256 = "38820d6c0247a1a58d65ca28147bdb2da4d584b2eb61aecb41aeefc6a6899c94"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Positioning_jll.jl/releases/download/Qt6Positioning-v6.5.2+0/Qt6Positioning.v6.5.2.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Qt6Positioning]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "154b5db1ad0c666be521a39f21a4d7e40948ab4f"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Positioning.download]]
+    sha256 = "a4f659904863621780e157dc1dc2b8a56dc00b8108eac271534cd256c7ad0187"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Positioning_jll.jl/releases/download/Qt6Positioning-v6.5.2+0/Qt6Positioning.v6.5.2.i686-linux-gnu-cxx03.tar.gz"
+[[Qt6Positioning]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "025f55ee213c57497f6af6c52bb69d91578acb69"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Positioning.download]]
+    sha256 = "779a9ad3fb35fac77f265698cdea4929fbc0b3dd6beab2831009e291b5e3b6fc"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Positioning_jll.jl/releases/download/Qt6Positioning-v6.5.2+0/Qt6Positioning.v6.5.2.i686-linux-gnu-cxx11.tar.gz"
+[[Qt6Positioning]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "92a52c077ba596cfe1e783b19aa75ab388853fd5"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Positioning.download]]
+    sha256 = "f89a02f2c8a6fb3f1ce3f5fe224b7e8137a47132f4c8cc82299f1c6c172960e0"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Positioning_jll.jl/releases/download/Qt6Positioning-v6.5.2+0/Qt6Positioning.v6.5.2.i686-linux-musl-cxx03.tar.gz"
+[[Qt6Positioning]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "06e7899ed2f2e82a139a59de03ee8e3e839a9b02"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Positioning.download]]
+    sha256 = "e9ad03987e57fa69b70755cdc5f481b02a9afec08e56b01c01c9a626f501a042"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Positioning_jll.jl/releases/download/Qt6Positioning-v6.5.2+0/Qt6Positioning.v6.5.2.i686-linux-musl-cxx11.tar.gz"
+[[Qt6Positioning]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "97bf64bed953c420ad366ef00398508c81930cee"
+os = "windows"
+
+    [[Qt6Positioning.download]]
+    sha256 = "dd8855d61ad24597574c9f0db1819c263dafbc3d8c530680ce3bf51350e38728"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Positioning_jll.jl/releases/download/Qt6Positioning-v6.5.2+0/Qt6Positioning.v6.5.2.i686-w64-mingw32-cxx03.tar.gz"
+[[Qt6Positioning]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b20f977e8eabac5490849acc0490aa1bbca9f8e4"
+os = "windows"
+
+    [[Qt6Positioning.download]]
+    sha256 = "fc5e4546641405a8acb080edbf2f694e3094e3a0309914d3a37efe768c3336eb"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Positioning_jll.jl/releases/download/Qt6Positioning-v6.5.2+0/Qt6Positioning.v6.5.2.i686-w64-mingw32-cxx11.tar.gz"
+[[Qt6Positioning]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "04498a13189d2bec37a53b2cbab43e7ca928a5e0"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Positioning.download]]
+    sha256 = "d938368d4d0fa62c723550712206d97a633f5993b71c22196e2cacd565917c52"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Positioning_jll.jl/releases/download/Qt6Positioning-v6.5.2+0/Qt6Positioning.v6.5.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Qt6Positioning]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "aab2c8fad570314dda1a1ba3299a0bfa44d678d5"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Positioning.download]]
+    sha256 = "c6dbe3cf1bdc693114247392ac004d216574ef821452ea34b6dc13c7b2f3e519"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Positioning_jll.jl/releases/download/Qt6Positioning-v6.5.2+0/Qt6Positioning.v6.5.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Qt6Positioning]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "53c435e33eadbd38bd99d277548c79f076513b05"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Positioning.download]]
+    sha256 = "cc39d45182f821a6ebad6e30c08486e1627a35204f92be0fb5c96e81931886fc"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Positioning_jll.jl/releases/download/Qt6Positioning-v6.5.2+0/Qt6Positioning.v6.5.2.x86_64-linux-gnu-cxx03.tar.gz"
+[[Qt6Positioning]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3a1aed67ed608f3d7fe2131ab41e873ba418cfa6"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Positioning.download]]
+    sha256 = "da29e531e82d5083785afdb895ce22636fa70f47c2aaa8c84fcbcc1c616c7e29"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Positioning_jll.jl/releases/download/Qt6Positioning-v6.5.2+0/Qt6Positioning.v6.5.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[Qt6Positioning]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cd5e293f01400425e93694210972d0aaf87a9863"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Positioning.download]]
+    sha256 = "101e76e3a1fb9ea41a44b7e2352de0d4c8fae006ff5c2f9f7e3465c8e437d33f"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Positioning_jll.jl/releases/download/Qt6Positioning-v6.5.2+0/Qt6Positioning.v6.5.2.x86_64-linux-musl-cxx03.tar.gz"
+[[Qt6Positioning]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2125458e37b9f79c5cbd51cc48ef9ea6bbf5b789"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Positioning.download]]
+    sha256 = "544e9ce7525464b826d8da86bebbf92e8b1595dd7a34c44de8ad1e23f50b211a"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Positioning_jll.jl/releases/download/Qt6Positioning-v6.5.2+0/Qt6Positioning.v6.5.2.x86_64-linux-musl-cxx11.tar.gz"
+[[Qt6Positioning]]
+arch = "x86_64"
+git-tree-sha1 = "57659a26218f95b64f29ef645be1dce26576eb63"
+os = "freebsd"
+
+    [[Qt6Positioning.download]]
+    sha256 = "b25fa3e5fcb2f7699f5631e22da70cb2c80d563874cc7452bbdedb3232f1eb80"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Positioning_jll.jl/releases/download/Qt6Positioning-v6.5.2+0/Qt6Positioning.v6.5.2.x86_64-unknown-freebsd.tar.gz"
+[[Qt6Positioning]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c3f9f9f03f09cc41b2a02a057cc905ca7a62e2f3"
+os = "windows"
+
+    [[Qt6Positioning.download]]
+    sha256 = "c57db4a9a1985ce05dd073e61f3dfe8995268451d4199539b4cd5e7bff22b069"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Positioning_jll.jl/releases/download/Qt6Positioning-v6.5.2+0/Qt6Positioning.v6.5.2.x86_64-w64-mingw32-cxx03.tar.gz"
+[[Qt6Positioning]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3422ecab95db5e3f1ced5ab392c0b43653be5d0a"
+os = "windows"
+
+    [[Qt6Positioning.download]]
+    sha256 = "3d76645aac2bf0bf5493cf901545654a8575720eada140080e791b99f958fc13"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Positioning_jll.jl/releases/download/Qt6Positioning-v6.5.2+0/Qt6Positioning.v6.5.2.x86_64-w64-mingw32-cxx11.tar.gz"
